@@ -10,7 +10,7 @@
 ### Hi there 👋
 
 
-![](https://raw.githubusercontent.com/LuYang-2023/LuYang-2023/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/LuYang-2023/LuYang-2023/assets/github-contribution-grid-snake.svg" /></div>
 <!--
 **LuYang-2023/LuYang-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
