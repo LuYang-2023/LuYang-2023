@@ -13,7 +13,7 @@ My research interests include object detection and model lightweighting.
 
 Page: https://LuYang-2023.github.io/
 
-懒羊羊是青青草原上最聪明的一只小肥羊，因为比别人聪明，干活、读书都比别的羊快，所以有很多时间可以用来睡觉。他不爱运动，只是聪明机智，而且临危不乱，总是一派大智若愚、举重若轻的感觉。
+懒羊羊：懒羊羊是青青草原上最聪明的一只小肥羊，因为比别人聪明，干活、读书都比别的羊快，所以有很多时间可以用来睡觉。他不爱运动，只是聪明机智，而且临危不乱，总是一派大智若愚、举重若轻的感觉。
 
 ![](https://raw.githubusercontent.com/LuYang-2023/LuYang-2023/output/github-contribution-grid-snake.svg)
 
