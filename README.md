@@ -16,6 +16,9 @@ Page: https://LuYang-2023.github.io/
 
 ![](https://raw.githubusercontent.com/LuYang-2023/LuYang-2023/output/github-contribution-grid-snake.svg)
 
+
+我的**头像**是动漫《喜羊羊与灰太狼》中的**懒羊羊**，他的官方人物介绍如下：***青青草原上最聪明的一只小肥羊，因为比别人聪明，干活、读书都比别的羊快，所以有很多时间可以用来睡觉。他不爱运动，只是聪明机智，而且临危不乱，总是一派大智若愚、举重若轻的感觉。***
+
 <!--
 **LuYang-2023/LuYang-2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
