@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 
-My research interests include object detection and model lightweighting.
+My research interests include online action detection and deep learning.
 
 Page: https://LuYang-2023.github.io/
 
